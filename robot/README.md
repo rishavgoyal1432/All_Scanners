@@ -10,7 +10,7 @@ Then see security settings and allow the file to run
 ## Install
 
         pip3 install virtualenv --user
-        python3 -m virtualenv .venv
+        python3 -m virtualenv .venvss
         source .venv/bin/activate
         pip install robotframework
         pip install robotframework-SeleniumLibrary
